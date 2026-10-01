@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess My Car</string>
+    <string name="brand_name_caps">GUESS MY CAR</string>
+    <string name="brand_tagline">赛车运动版</string>
+    <string name="brand_trivia_badge">汽车视觉问答</string>
+    <string name="brand_subtitle">你能全部认出来吗？</string>
+
+    <!-- Home -->
+    <string name="nav_garage_hub">车库中心</string>
+    <string name="region_label">地区</string>
+    <string name="cars_available">%1$d 辆可用车型</string>
+    <string name="start_challenge">开始挑战</string>
+    <string name="stage_timed_mode">第01关 • 计时剪影模式</string>
+    <string name="page_indicator">%1$02d / %2$02d</string>
+
+    <!-- Level map -->
+    <string name="levels_range">关卡 1 - %1$d</string>
+    <string name="next_objective">下一目标</string>
+    <string name="region_complete">地区已完成</string>
+    <string name="race_button">比赛</string>
+    <string name="level_short">Lv.%1$d</string>
+    <string name="ready_badge">准备就绪</string>
+    <string name="locked_label">未解锁</string>
+    <string name="cd_back">返回</string>
+    <string name="cd_player_car">玩家座驾</string>
+    <string name="cd_completed">已完成</string>
+    <string name="cd_locked">未解锁</string>
+    <string name="cd_profile">个人资料</string>
+    <string name="cd_car_logo">汽车标志</string>
+    <string name="cd_settings">设置</string>
+    <string name="cd_filter">筛选</string>
+    <string name="cd_sparkles">闪光</string>
+
+    <!-- Quiz -->
+    <string name="active_quiz_title">答题中</string>
+    <string name="stage_progress">第%1$d/%2$d关</string>
+    <string name="points_suffix">%1$d 分</string>
+    <string name="select_matching_vehicle">选择匹配的车辆</string>
+    <string name="plus_fifty_pts">+50 分</string>
+    <string name="attempts_label">尝试次数：%1$d</string>
+    <string name="wrong_answer_banner">答错了 — 再试一次</string>
+    <string name="hint_label">提示 (%1$d)</string>
+    <string name="skip_vehicle">跳过此车</string>
+    <string name="difficulty_easy">简单</string>
+    <string name="difficulty_medium">中等</string>
+    <string name="difficulty_hard">困难</string>
+
+    <!-- Result -->
+    <string name="quiz_result_title">答题结果</string>
+    <string name="level_number_title">第 %1$d 关</string>
+    <string name="you_guessed_correctly">回答正确！🎉</string>
+    <string name="matched_badge">已匹配</string>
+    <string name="attempt_first">一次答对</string>
+    <string name="attempt_one_mistake">错误一次</string>
+    <string name="attempt_multiple_mistakes">多次错误</string>
+    <string name="result_summary_format">%1$s • 轮胎 %2$d/3 • +%3$d 分</string>
+    <string name="levels_button">关卡</string>
+    <string name="next_button">下一关</string>
+
+    <!-- Settings -->
+    <string name="settings_title">设置</string>
+    <string name="sound_label">声音</string>
+    <string name="haptics_label">震动</string>
+    <string name="language_label">语言</string>
+    <string name="how_to_play">游戏玩法</string>
+    <string name="how_to_play_step1">根据图片猜出这辆车。</string>
+    <string name="how_to_play_step2">从四个选项中选择一个答案。</string>
+    <string name="how_to_play_step3">完成所有关卡以征服每个国家。</string>
+    <string name="reset_all_progress">重置所有进度</string>
+    <string name="app_footer_version">GUESS MY CAR V1.0.4</string>
+    <string name="reset_dialog_title">重置所有数据？</string>
+    <string name="reset_dialog_message">所有已完成的关卡、车辆剪影和遥测星级都将被清除。</string>
+    <string name="confirm_reset">确认重置</string>
+    <string name="cancel">取消</string>
+    <string name="choose_language">选择语言</string>
+
+    <!-- Generic / requested vocabulary -->
+    <string name="label_level">关卡</string>
+    <string name="label_levels">关卡</string>
+    <string name="label_next">下一步</string>
+    <string name="label_previous">上一步</string>
+    <string name="label_correct">正确</string>
+    <string name="label_points">积分</string>
+    <string name="label_tires">轮胎</string>
+    <string name="label_loading">加载中…</string>
+    <string name="label_no_internet">无网络连接</string>
+    <string name="label_retry">重试</string>
+    <string name="label_error">错误</string>
+    <string name="image_unavailable">图片不可用</string>
+
+    <!-- Region names -->
+    <string name="region_name_cn">中国</string>
+    <string name="region_name_us">美国</string>
+    <string name="region_name_jp">日本</string>
+    <string name="region_name_de">德国</string>
+    <string name="region_name_kr">韩国</string>
+    <string name="region_name_it">意大利</string>
+    <string name="region_name_fr">法国</string>
+    <string name="region_name_gb">英国</string>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess My Car</string>
+    <string name="brand_name_caps">GUESS MY CAR</string>
+    <string name="brand_tagline">モータースポーツ・エディション</string>
+    <string name="brand_trivia_badge">自動車ビジュアルトリビア</string>
+    <string name="brand_subtitle">全部当てられるかな？</string>
+
+    <!-- Home -->
+    <string name="nav_garage_hub">ガレージ</string>
+    <string name="region_label">地域</string>
+    <string name="cars_available">車 %1$d台</string>
+    <string name="start_challenge">チャレンジ開始</string>
+    <string name="stage_timed_mode">ステージ01・タイムシルエットモード</string>
+    <string name="page_indicator">%1$02d / %2$02d</string>
+
+    <!-- Level map -->
+    <string name="levels_range">レベル 1 - %1$d</string>
+    <string name="next_objective">次の目標</string>
+    <string name="region_complete">地域コンプリート</string>
+    <string name="race_button">レース</string>
+    <string name="level_short">Lv.%1$d</string>
+    <string name="ready_badge">準備完了</string>
+    <string name="locked_label">ロック中</string>
+    <string name="cd_back">戻る</string>
+    <string name="cd_player_car">プレイヤーの車</string>
+    <string name="cd_completed">クリア済み</string>
+    <string name="cd_locked">ロック中</string>
+    <string name="cd_profile">プロフィール</string>
+    <string name="cd_car_logo">車のロゴ</string>
+    <string name="cd_settings">設定</string>
+    <string name="cd_filter">フィルター</string>
+    <string name="cd_sparkles">キラキラ</string>
+
+    <!-- Quiz -->
+    <string name="active_quiz_title">クイズ中</string>
+    <string name="stage_progress">ステージ %1$d/%2$d</string>
+    <string name="points_suffix">%1$d PT</string>
+    <string name="select_matching_vehicle">一致する車を選んでください</string>
+    <string name="plus_fifty_pts">+50 PT</string>
+    <string name="attempts_label">挑戦回数: %1$d</string>
+    <string name="wrong_answer_banner">不正解 — もう一度</string>
+    <string name="hint_label">ヒント (%1$d)</string>
+    <string name="skip_vehicle">車をスキップ</string>
+    <string name="difficulty_easy">かんたん</string>
+    <string name="difficulty_medium">ふつう</string>
+    <string name="difficulty_hard">むずかしい</string>
+
+    <!-- Result -->
+    <string name="quiz_result_title">クイズ結果</string>
+    <string name="level_number_title">レベル %1$d</string>
+    <string name="you_guessed_correctly">正解です！🎉</string>
+    <string name="matched_badge">一致</string>
+    <string name="attempt_first">1回で正解</string>
+    <string name="attempt_one_mistake">1回失敗</string>
+    <string name="attempt_multiple_mistakes">複数回失敗</string>
+    <string name="result_summary_format">%1$s・タイヤ%2$d/3・+%3$d PT</string>
+    <string name="levels_button">レベル</string>
+    <string name="next_button">次へ</string>
+
+    <!-- Settings -->
+    <string name="settings_title">設定</string>
+    <string name="sound_label">サウンド</string>
+    <string name="haptics_label">振動</string>
+    <string name="language_label">言語</string>
+    <string name="how_to_play">遊び方</string>
+    <string name="how_to_play_step1">画像から車を当てよう。</string>
+    <string name="how_to_play_step2">4つの選択肢から1つを選ぼう。</string>
+    <string name="how_to_play_step3">すべてのレベルをクリアして各国を制覇しよう。</string>
+    <string name="reset_all_progress">進行状況をリセット</string>
+    <string name="app_footer_version">GUESS MY CAR V1.0.4</string>
+    <string name="reset_dialog_title">すべてのデータをリセットしますか？</string>
+    <string name="reset_dialog_message">クリア済みのステージ、車のシルエット、テレメトリースターがすべて削除されます。</string>
+    <string name="confirm_reset">リセットする</string>
+    <string name="cancel">キャンセル</string>
+    <string name="choose_language">言語を選択</string>
+
+    <!-- Generic / requested vocabulary -->
+    <string name="label_level">レベル</string>
+    <string name="label_levels">レベル</string>
+    <string name="label_next">次へ</string>
+    <string name="label_previous">前へ</string>
+    <string name="label_correct">正解</string>
+    <string name="label_points">ポイント</string>
+    <string name="label_tires">タイヤ</string>
+    <string name="label_loading">読み込み中…</string>
+    <string name="label_no_internet">インターネット未接続</string>
+    <string name="label_retry">再試行</string>
+    <string name="label_error">エラー</string>
+    <string name="image_unavailable">画像が利用できません</string>
+
+    <!-- Region names -->
+    <string name="region_name_cn">中国</string>
+    <string name="region_name_us">アメリカ合衆国</string>
+    <string name="region_name_jp">日本</string>
+    <string name="region_name_de">ドイツ</string>
+    <string name="region_name_kr">韓国</string>
+    <string name="region_name_it">イタリア</string>
+    <string name="region_name_fr">フランス</string>
+    <string name="region_name_gb">イギリス</string>
+</resources>

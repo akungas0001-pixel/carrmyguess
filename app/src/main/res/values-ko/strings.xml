@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess My Car</string>
+    <string name="brand_name_caps">GUESS MY CAR</string>
+    <string name="brand_tagline">모터스포츠 에디션</string>
+    <string name="brand_trivia_badge">자동차 비주얼 트리비아</string>
+    <string name="brand_subtitle">전부 알아맞힐 수 있을까요?</string>
+
+    <!-- Home -->
+    <string name="nav_garage_hub">게러지 허브</string>
+    <string name="region_label">지역</string>
+    <string name="cars_available">차량 %1$d대 보유</string>
+    <string name="start_challenge">챌린지 시작</string>
+    <string name="stage_timed_mode">스테이지 01 • 타임 실루엣 모드</string>
+    <string name="page_indicator">%1$02d / %2$02d</string>
+
+    <!-- Level map -->
+    <string name="levels_range">레벨 1 - %1$d</string>
+    <string name="next_objective">다음 목표</string>
+    <string name="region_complete">지역 완료</string>
+    <string name="race_button">레이스</string>
+    <string name="level_short">Lv.%1$d</string>
+    <string name="ready_badge">준비 완료</string>
+    <string name="locked_label">잠김</string>
+    <string name="cd_back">뒤로</string>
+    <string name="cd_player_car">플레이어 차량</string>
+    <string name="cd_completed">완료됨</string>
+    <string name="cd_locked">잠김</string>
+    <string name="cd_profile">프로필</string>
+    <string name="cd_car_logo">차량 로고</string>
+    <string name="cd_settings">설정</string>
+    <string name="cd_filter">필터</string>
+    <string name="cd_sparkles">반짝임</string>
+
+    <!-- Quiz -->
+    <string name="active_quiz_title">퀴즈 진행 중</string>
+    <string name="stage_progress">스테이지 %1$d/%2$d</string>
+    <string name="points_suffix">%1$d점</string>
+    <string name="select_matching_vehicle">일치하는 차량을 선택하세요</string>
+    <string name="plus_fifty_pts">+50점</string>
+    <string name="attempts_label">시도 횟수: %1$d</string>
+    <string name="wrong_answer_banner">오답입니다 — 다시 시도하세요</string>
+    <string name="hint_label">힌트 (%1$d)</string>
+    <string name="skip_vehicle">차량 건너뛰기</string>
+    <string name="difficulty_easy">쉬움</string>
+    <string name="difficulty_medium">보통</string>
+    <string name="difficulty_hard">어려움</string>
+
+    <!-- Result -->
+    <string name="quiz_result_title">퀴즈 결과</string>
+    <string name="level_number_title">레벨 %1$d</string>
+    <string name="you_guessed_correctly">정답입니다! 🎉</string>
+    <string name="matched_badge">일치</string>
+    <string name="attempt_first">한 번에 성공</string>
+    <string name="attempt_one_mistake">1회 실수</string>
+    <string name="attempt_multiple_mistakes">여러 번 실수</string>
+    <string name="result_summary_format">%1$s • 타이어 %2$d/3 • +%3$d점</string>
+    <string name="levels_button">레벨</string>
+    <string name="next_button">다음</string>
+
+    <!-- Settings -->
+    <string name="settings_title">설정</string>
+    <string name="sound_label">사운드</string>
+    <string name="haptics_label">햅틱</string>
+    <string name="language_label">언어</string>
+    <string name="how_to_play">게임 방법</string>
+    <string name="how_to_play_step1">이미지를 보고 차량을 맞혀보세요.</string>
+    <string name="how_to_play_step2">네 가지 보기 중 하나를 선택하세요.</string>
+    <string name="how_to_play_step3">모든 레벨을 완료해 각 나라를 정복하세요.</string>
+    <string name="reset_all_progress">진행 상황 초기화</string>
+    <string name="app_footer_version">GUESS MY CAR V1.0.4</string>
+    <string name="reset_dialog_title">모든 데이터를 초기화할까요?</string>
+    <string name="reset_dialog_message">완료한 모든 스테이지, 차량 실루엣, 텔레메트리 별점이 삭제됩니다.</string>
+    <string name="confirm_reset">초기화 확인</string>
+    <string name="cancel">취소</string>
+    <string name="choose_language">언어 선택</string>
+
+    <!-- Generic / requested vocabulary -->
+    <string name="label_level">레벨</string>
+    <string name="label_levels">레벨</string>
+    <string name="label_next">다음</string>
+    <string name="label_previous">이전</string>
+    <string name="label_correct">정답</string>
+    <string name="label_points">포인트</string>
+    <string name="label_tires">타이어</string>
+    <string name="label_loading">불러오는 중…</string>
+    <string name="label_no_internet">인터넷 연결 없음</string>
+    <string name="label_retry">다시 시도</string>
+    <string name="label_error">오류</string>
+    <string name="image_unavailable">이미지를 사용할 수 없음</string>
+
+    <!-- Region names -->
+    <string name="region_name_cn">중국</string>
+    <string name="region_name_us">미국</string>
+    <string name="region_name_jp">일본</string>
+    <string name="region_name_de">독일</string>
+    <string name="region_name_kr">대한민국</string>
+    <string name="region_name_it">이탈리아</string>
+    <string name="region_name_fr">프랑스</string>
+    <string name="region_name_gb">영국</string>
+</resources>

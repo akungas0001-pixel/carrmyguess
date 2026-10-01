@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess My Car</string>
+    <string name="brand_name_caps">GUESS MY CAR</string>
+    <string name="brand_tagline">MOTORSPORT EDITION</string>
+    <string name="brand_trivia_badge">AUTO-VISUAL-TRIVIA</string>
+    <string name="brand_subtitle">Erkennst du sie alle?</string>
+
+    <!-- Home -->
+    <string name="nav_garage_hub">GARAGE</string>
+    <string name="region_label">REGION</string>
+    <string name="cars_available">%1$d Fahrzeuge verfügbar</string>
+    <string name="start_challenge">HERAUSFORDERUNG STARTEN</string>
+    <string name="stage_timed_mode">STAGE 01 • ZEIT-SILHOUETTEN-MODUS</string>
+    <string name="page_indicator">%1$02d / %2$02d</string>
+
+    <!-- Level map -->
+    <string name="levels_range">LEVEL 1 - %1$d</string>
+    <string name="next_objective">NÄCHSTES ZIEL</string>
+    <string name="region_complete">REGION ABGESCHLOSSEN</string>
+    <string name="race_button">RENNEN</string>
+    <string name="level_short">LVL %1$d</string>
+    <string name="ready_badge">BEREIT</string>
+    <string name="locked_label">Gesperrt</string>
+    <string name="cd_back">Zurück</string>
+    <string name="cd_player_car">Spielerauto</string>
+    <string name="cd_completed">Abgeschlossen</string>
+    <string name="cd_locked">Gesperrt</string>
+    <string name="cd_profile">Profil</string>
+    <string name="cd_car_logo">Auto-Logo</string>
+    <string name="cd_settings">Einstellungen</string>
+    <string name="cd_filter">Filter</string>
+    <string name="cd_sparkles">Glitzer</string>
+
+    <!-- Quiz -->
+    <string name="active_quiz_title">AKTIVES QUIZ</string>
+    <string name="stage_progress">STAGE %1$d/%2$d</string>
+    <string name="points_suffix">%1$d PKT</string>
+    <string name="select_matching_vehicle">PASSENDES FAHRZEUG AUSWÄHLEN</string>
+    <string name="plus_fifty_pts">+50 PKT</string>
+    <string name="attempts_label">VERSUCHE: %1$d</string>
+    <string name="wrong_answer_banner">Falsche Antwort — versuch\'s nochmal</string>
+    <string name="hint_label">HINWEIS (%1$d)</string>
+    <string name="skip_vehicle">FAHRZEUG ÜBERSPRINGEN</string>
+    <string name="difficulty_easy">LEICHT</string>
+    <string name="difficulty_medium">MITTEL</string>
+    <string name="difficulty_hard">SCHWER</string>
+
+    <!-- Result -->
+    <string name="quiz_result_title">QUIZ-ERGEBNIS</string>
+    <string name="level_number_title">Level %1$d</string>
+    <string name="you_guessed_correctly">Richtig geraten! 🎉</string>
+    <string name="matched_badge">ERKANNT</string>
+    <string name="attempt_first">ERSTER VERSUCH</string>
+    <string name="attempt_one_mistake">EIN FEHLER</string>
+    <string name="attempt_multiple_mistakes">MEHRERE FEHLER</string>
+    <string name="result_summary_format">%1$s • %2$d/3 REIFEN • +%3$d PKT</string>
+    <string name="levels_button">Level</string>
+    <string name="next_button">WEITER</string>
+
+    <!-- Settings -->
+    <string name="settings_title">EINSTELLUNGEN</string>
+    <string name="sound_label">TON</string>
+    <string name="haptics_label">VIBRATION</string>
+    <string name="language_label">Sprache</string>
+    <string name="how_to_play">SO WIRD GESPIELT</string>
+    <string name="how_to_play_step1">Errate das Auto anhand des Bildes.</string>
+    <string name="how_to_play_step2">Wähle eine von vier möglichen Antworten.</string>
+    <string name="how_to_play_step3">Schließe alle Level ab, um jedes Land zu meistern.</string>
+    <string name="reset_all_progress">FORTSCHRITT ZURÜCKSETZEN</string>
+    <string name="app_footer_version">GUESS MY CAR V1.0.4</string>
+    <string name="reset_dialog_title">Alle Daten zurücksetzen?</string>
+    <string name="reset_dialog_message">Alle abgeschlossenen Stages, Fahrzeug-Silhouetten und Telemetrie-Sterne werden gelöscht.</string>
+    <string name="confirm_reset">Zurücksetzen bestätigen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="choose_language">Sprache wählen</string>
+
+    <!-- Generic / requested vocabulary -->
+    <string name="label_level">Level</string>
+    <string name="label_levels">Level</string>
+    <string name="label_next">Weiter</string>
+    <string name="label_previous">Zurück</string>
+    <string name="label_correct">Richtig</string>
+    <string name="label_points">Punkte</string>
+    <string name="label_tires">Reifen</string>
+    <string name="label_loading">Lädt…</string>
+    <string name="label_no_internet">Kein Internet</string>
+    <string name="label_retry">Erneut versuchen</string>
+    <string name="label_error">Fehler</string>
+    <string name="image_unavailable">BILD NICHT VERFÜGBAR</string>
+
+    <!-- Region names -->
+    <string name="region_name_cn">China</string>
+    <string name="region_name_us">Vereinigte Staaten</string>
+    <string name="region_name_jp">Japan</string>
+    <string name="region_name_de">Deutschland</string>
+    <string name="region_name_kr">Südkorea</string>
+    <string name="region_name_it">Italien</string>
+    <string name="region_name_fr">Frankreich</string>
+    <string name="region_name_gb">Vereinigtes Königreich</string>
+</resources>
