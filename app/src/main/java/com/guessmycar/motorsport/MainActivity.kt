@@ -50,8 +50,18 @@ class MainActivity : ComponentActivity() {
 
                         NavHost(
                             navController = navController,
-                            startDestination = "garage"
+                            startDestination = "splash"
                         ) {
+                            composable("splash") {
+                                SplashScreen(
+                                    onFinished = {
+                                        navController.navigate("garage") {
+                                            popUpTo("splash") { inclusive = true }
+                                        }
+                                    }
+                                )
+                            }
+
                             composable("garage") {
                                 GarageHubScreen(
                                     initialRegionId = selectedRegionId,

@@ -2,6 +2,8 @@ package com.guessmycar.motorsport.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val BrandNavy = Color(0xFF00061E)
+
 val SurfaceDark = Color(0xFF131313)
 val SurfaceContainerLowest = Color(0xFF0E0E0E)
 val SurfaceContainerLow = Color(0xFF1C1B1B)
