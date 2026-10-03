@@ -62,10 +62,10 @@ fun GarageHubScreen(
                         contentAlignment = Alignment.Center
                     ) {
                         Image(
-                            painter = painterResource(id = R.drawable.logo_guess_my_car_square),
+                            painter = painterResource(id = R.drawable.logo_guess_my_car_home),
                             contentDescription = stringResource(R.string.cd_car_logo),
                             contentScale = ContentScale.Fit,
-                            modifier = Modifier.size(28.dp)
+                            modifier = Modifier.size(33.dp)
                         )
                     }
                     Spacer(Modifier.width(10.dp))
